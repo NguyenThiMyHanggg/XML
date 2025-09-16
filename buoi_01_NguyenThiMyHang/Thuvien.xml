@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<thuvien>
+    <book id="B001">
+        <title>Những vần thơ bình yên</title>
+        <author>Nguyễn Quốc Bảo</author>
+        <year>2018</year>
+        <genre>Thơ</genre>
+    </book>
+    <book id="B002">
+        <title>Lập trình Python từ cơ bản đến nâng cao</title>
+        <author>Nguyễn Thị Mỹ Hằng</author>
+        <year>2021</year>
+        <genre>Giáo trình</genre>
+    </book>
+    <book id="B003">
+        <title>Thiên đường mất tích</title>
+        <author>Nguyễn Trần Tuấn Khôi</author>
+        <year>2019</year>
+        <genre>Tiểu thuyết</genre>
+    </book>
+</thuvien>
